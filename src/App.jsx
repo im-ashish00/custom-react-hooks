@@ -1,5 +1,5 @@
 import React from 'react';
-import ToggleComponent from './01-useToggle/ToogleComponent';
+import TimeoutComponent from './02-useTimeout/TimeoutComponent';
 export default function App() {
-  return <ToggleComponent />;
+  return <TimeoutComponent />;
 }
