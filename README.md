@@ -9,3 +9,8 @@ A Hook is a special function that lets you “hook into” React features and th
 #### useTimeout
 - It sets the timeout, works the same as setTimeout.
 - It gives the reset and clear function, works without it too.
+
+#### useDebounce 
+- It restricts the function calls for performance boost.
+- If anything changes within the delay period it resets the timer and holds on to calling a callback.
+

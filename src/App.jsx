@@ -1,5 +1,6 @@
 import React from 'react';
-import TimeoutComponent from './02-useTimeout/TimeoutComponent';
+import DebounceComponent from './03-useDebounce/DebounceComponent';
+
 export default function App() {
-  return <TimeoutComponent />;
+  return <DebounceComponent />;
 }
