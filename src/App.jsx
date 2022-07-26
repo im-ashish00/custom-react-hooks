@@ -1,6 +1,6 @@
 import React from 'react';
-import UpdateEffectComponent from './04-useUpdateEffect/UpdateEffectComponent';
+import ArrayComponent from './05-useArray/ArrayComponent';
 
 export default function App() {
-  return <UpdateEffectComponent />;
+  return <ArrayComponent />;
 }

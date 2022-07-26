@@ -16,3 +16,6 @@ A Hook is a special function that lets you “hook into” React features and th
 
 #### useUpdateEffect 
 - Works the same as useEffect but it doesn't run on the first call.
+
+#### useArray 
+- Some useful array operations which get used over and over again.
