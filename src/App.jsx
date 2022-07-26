@@ -1,6 +1,6 @@
 import React from 'react';
-import DebounceComponent from './03-useDebounce/DebounceComponent';
+import UpdateEffectComponent from './04-useUpdateEffect/UpdateEffectComponent';
 
 export default function App() {
-  return <DebounceComponent />;
+  return <UpdateEffectComponent />;
 }

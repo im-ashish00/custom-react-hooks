@@ -14,3 +14,5 @@ A Hook is a special function that lets you “hook into” React features and th
 - It restricts the function calls for performance boost.
 - If anything changes within the delay period it resets the timer and holds on to calling a callback.
 
+#### useUpdateEffect 
+- Works the same as useEffect but it doesn't run on the first call.
